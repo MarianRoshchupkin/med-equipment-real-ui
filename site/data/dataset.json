@@ -1,0 +1,122 @@
+{
+  "schema_version": "REAL_UI_PUBLIC_SNAPSHOT_V1",
+  "mode": "PUBLIC_APPROVED_SNAPSHOT_READONLY",
+  "cutoff_utc": "2026-10-29T07:04:22.139604Z",
+  "source": "ЕИС",
+  "source_data_cutoff_utc": "2026-10-28T19:56:36.627110Z",
+  "tenders": [
+    {
+      "registry_number": "0142200001326018775",
+      "source_law": "44-ФЗ",
+      "title": "Поставка медицинских расходных материалов (наконечники пипеток) к анализатору Чароит",
+      "purchase_url": "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0142200001326018775",
+      "nmck_total": "4024583.75"
+    },
+    {
+      "registry_number": "0142200001326018764",
+      "source_law": "44-ФЗ",
+      "title": "Поставка изделий медицинского назначения для больных сахарным диабетом, в рамках льготного лекарственного обеспечения на 2027 год. (27-01-258)",
+      "purchase_url": "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0142200001326018764",
+      "nmck_total": "561862.00"
+    },
+    {
+      "registry_number": "0142200001326018767",
+      "source_law": "44-ФЗ",
+      "title": "Поставка изделий медицинского назначения для больных сахарным диабетом, в рамках льготного лекарственного обеспечения на 2026 год. (п26-08-732)",
+      "purchase_url": "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0142200001326018767",
+      "nmck_total": "460524.75"
+    },
+    {
+      "registry_number": "0142200001326018768",
+      "source_law": "44-ФЗ",
+      "title": "Поставка медицинских расходных материалов (лот №9) для оборудования Cobas для Государственного бюджетного учреждения здравоохранения ''Самарская областная клиническая станция переливания крови'' в 2026 году",
+      "purchase_url": "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0142200001326018768",
+      "nmck_total": "12282930.00"
+    },
+    {
+      "registry_number": "0142200001326018761",
+      "source_law": "44-ФЗ",
+      "title": "Поставка перевязочных материалов, предназначенных для отпуска в 2026 году пациентам, имеющим право на бесплатное и льготное лекарственное обеспечение за счет бюджета Самарской области для Государственного казенного учреждения Самарской области \"Самарафармация» (п26-03-86).",
+      "purchase_url": "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0142200001326018761",
+      "nmck_total": "430679.70"
+    },
+    {
+      "registry_number": "0142200001326018759",
+      "source_law": "44-ФЗ",
+      "title": "Поставка изделий медицинского назначения для больных сахарным диабетом, в рамках льготного лекарственного обеспечения на 2027 год. (п27-01-56)",
+      "purchase_url": "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0142200001326018759",
+      "nmck_total": "4744000.00"
+    },
+    {
+      "registry_number": "32616445853",
+      "source_law": "223-ФЗ",
+      "title": "Поставка медицинских изделий: Шприцы одноразовые",
+      "purchase_url": "https://zakupki.gov.ru/223/purchase/public/purchase/info/common-info.html?regNumber=32616445853",
+      "buyer": {
+        "name": "ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ СВЕРДЛОВСКОЙ ОБЛАСТИ \"ЦЕНТРАЛЬНАЯ ГОРОДСКАЯ БОЛЬНИЦА № 20 ГОРОД ЕКАТЕРИНБУРГ\""
+      },
+      "nmck_total": "1298950.00"
+    },
+    {
+      "registry_number": "32616445874",
+      "source_law": "223-ФЗ",
+      "title": "Поставка товаров (аптечка первой помощи и др.) для оснащения образовательных учреждений после капитального ремонта в 2027 году (КР2027-59)",
+      "purchase_url": "https://zakupki.gov.ru/223/purchase/public/purchase/info/common-info.html?regNumber=32616445874",
+      "buyer": {
+        "name": "ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ГОРОДА МОСКВЫ \"ЦЕНТР ТЕХНИЧЕСКОГО ОСНАЩЕНИЯ И МОДЕРНИЗАЦИИ ОБРАЗОВАНИЯ\""
+      }
+    },
+    {
+      "registry_number": "32616445870",
+      "source_law": "223-ФЗ",
+      "title": "Поставка медицинского оборудования.",
+      "purchase_url": "https://zakupki.gov.ru/223/purchase/public/purchase/info/common-info.html?regNumber=32616445870",
+      "buyer": {
+        "name": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ \"РОССИЙСКИЙ УНИВЕРСИТЕТ МЕДИЦИНЫ\" МИНИСТЕРСТВА ЗДРАВООХРАНЕНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ"
+      },
+      "nmck_total": "5824500.00"
+    },
+    {
+      "registry_number": "32616445860",
+      "source_law": "223-ФЗ",
+      "title": "Поставка лабораторного оборудования.",
+      "purchase_url": "https://zakupki.gov.ru/223/purchase/public/purchase/info/common-info.html?regNumber=32616445860",
+      "buyer": {
+        "name": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ \"РОССИЙСКИЙ УНИВЕРСИТЕТ МЕДИЦИНЫ\" МИНИСТЕРСТВА ЗДРАВООХРАНЕНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ"
+      },
+      "nmck_total": "8420000.00"
+    },
+    {
+      "registry_number": "32616444989",
+      "source_law": "223-ФЗ",
+      "title": "Изделия медицинского назначения",
+      "purchase_url": "https://zakupki.gov.ru/223/purchase/public/purchase/info/common-info.html?regNumber=32616444989",
+      "buyer": {
+        "name": "ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ СВЕРДЛОВСКОЙ ОБЛАСТИ \"ИРБИТСКАЯ ЦЕНТРАЛЬНАЯ ГОРОДСКАЯ БОЛЬНИЦА\""
+      },
+      "nmck_total": "20000000.00"
+    },
+    {
+      "registry_number": "32616445364",
+      "source_law": "223-ФЗ",
+      "title": "Поставка товара «Салфетка спиртовая»",
+      "purchase_url": "https://zakupki.gov.ru/223/purchase/public/purchase/info/common-info.html?regNumber=32616445364",
+      "buyer": {
+        "name": "ГОСУДАРСТВЕННОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ \"САРАТОВСКАЯ ГОРОДСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА № 8\""
+      },
+      "nmck_total": "205600.00"
+    }
+  ],
+  "availability": {
+    "requirements": "NO_PUBLIC_APPROVED_DATA",
+    "documents": "OFFICIAL_LINK_ONLY",
+    "model_matches": "NO_PUBLIC_APPROVED_DATA",
+    "history": "NO_PUBLIC_APPROVED_DATA",
+    "plans": "NO_PUBLIC_APPROVED_DATA",
+    "analytics": "NO_PUBLIC_APPROVED_DATA",
+    "saved_searches": "REQUIRES_AUTHENTICATED_SERVER",
+    "favorites": "REQUIRES_AUTHENTICATED_SERVER",
+    "notifications": "REQUIRES_AUTHENTICATED_SERVER",
+    "reviews": "REQUIRES_AUTHENTICATED_SERVER"
+  }
+}

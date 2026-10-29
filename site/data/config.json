@@ -1,0 +1,8 @@
+{
+  "mode": "PUBLIC_APPROVED_SNAPSHOT_READONLY",
+  "read_only": true,
+  "auth": false,
+  "backend_url": null,
+  "write_methods": [],
+  "localhost_fallback": false
+}

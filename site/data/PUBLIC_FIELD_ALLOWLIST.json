@@ -1,0 +1,253 @@
+{
+  "schema_version": "1",
+  "default": "DENY",
+  "entities": {
+    "tenders": {
+      "fields": {
+        "buyer.name": {
+          "classification": "PUBLIC_EIS_METADATA",
+          "origin": "Authenticated actual API value, exact public EIS page readback",
+          "source_publicness": "VERIFIED_PUBLIC",
+          "legal_privacy_basis": "Limited factual metadata displayed without authentication on official EIS; no original documents or contact fields redistributed",
+          "reviewed_by_workflow": "FLOW_A",
+          "scope": "Only the verified records and fields in this sealed package"
+        },
+        "nmck_total": {
+          "classification": "PUBLIC_EIS_METADATA",
+          "origin": "Authenticated actual API value, exact public EIS page readback",
+          "source_publicness": "VERIFIED_PUBLIC",
+          "legal_privacy_basis": "Limited factual metadata displayed without authentication on official EIS; no original documents or contact fields redistributed",
+          "reviewed_by_workflow": "FLOW_A",
+          "scope": "Only the verified records and fields in this sealed package"
+        },
+        "purchase_url": {
+          "classification": "PUBLIC_EIS_METADATA",
+          "origin": "Authenticated actual API value, exact public EIS page readback",
+          "source_publicness": "VERIFIED_PUBLIC",
+          "legal_privacy_basis": "Limited factual metadata displayed without authentication on official EIS; no original documents or contact fields redistributed",
+          "reviewed_by_workflow": "FLOW_A",
+          "scope": "Only the verified records and fields in this sealed package"
+        },
+        "registry_number": {
+          "classification": "PUBLIC_EIS_METADATA",
+          "origin": "Authenticated actual API value, exact public EIS page readback",
+          "source_publicness": "VERIFIED_PUBLIC",
+          "legal_privacy_basis": "Limited factual metadata displayed without authentication on official EIS; no original documents or contact fields redistributed",
+          "reviewed_by_workflow": "FLOW_A",
+          "scope": "Only the verified records and fields in this sealed package"
+        },
+        "source_law": {
+          "classification": "PUBLIC_EIS_METADATA",
+          "origin": "Authenticated actual API value, exact public EIS page readback",
+          "source_publicness": "VERIFIED_PUBLIC",
+          "legal_privacy_basis": "Limited factual metadata displayed without authentication on official EIS; no original documents or contact fields redistributed",
+          "reviewed_by_workflow": "FLOW_A",
+          "scope": "Only the verified records and fields in this sealed package"
+        },
+        "title": {
+          "classification": "PUBLIC_EIS_METADATA",
+          "origin": "Authenticated actual API value, exact public EIS page readback",
+          "source_publicness": "VERIFIED_PUBLIC",
+          "legal_privacy_basis": "Limited factual metadata displayed without authentication on official EIS; no original documents or contact fields redistributed",
+          "reviewed_by_workflow": "FLOW_A",
+          "scope": "Only the verified records and fields in this sealed package"
+        }
+      },
+      "required_fields": [
+        "registry_number",
+        "source_law",
+        "title",
+        "purchase_url"
+      ],
+      "optional_fields": [
+        "buyer.name",
+        "nmck_total"
+      ],
+      "source_publicness": "VERIFIED_PUBLIC",
+      "approved_records": [
+        {
+          "registry_number": "0142200001326018775",
+          "source_url": "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0142200001326018775",
+          "fields": [
+            "registry_number",
+            "source_law",
+            "title",
+            "purchase_url",
+            "nmck_total"
+          ]
+        },
+        {
+          "registry_number": "0142200001326018764",
+          "source_url": "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0142200001326018764",
+          "fields": [
+            "registry_number",
+            "source_law",
+            "title",
+            "purchase_url",
+            "nmck_total"
+          ]
+        },
+        {
+          "registry_number": "0142200001326018767",
+          "source_url": "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0142200001326018767",
+          "fields": [
+            "registry_number",
+            "source_law",
+            "title",
+            "purchase_url",
+            "nmck_total"
+          ]
+        },
+        {
+          "registry_number": "0142200001326018768",
+          "source_url": "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0142200001326018768",
+          "fields": [
+            "registry_number",
+            "source_law",
+            "title",
+            "purchase_url",
+            "nmck_total"
+          ]
+        },
+        {
+          "registry_number": "0142200001326018761",
+          "source_url": "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0142200001326018761",
+          "fields": [
+            "registry_number",
+            "source_law",
+            "title",
+            "purchase_url",
+            "nmck_total"
+          ]
+        },
+        {
+          "registry_number": "0142200001326018759",
+          "source_url": "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0142200001326018759",
+          "fields": [
+            "registry_number",
+            "source_law",
+            "title",
+            "purchase_url",
+            "nmck_total"
+          ]
+        },
+        {
+          "registry_number": "32616445853",
+          "source_url": "https://zakupki.gov.ru/epz/order/notice/notice223/common-info.html?regNumber=32616445853",
+          "fields": [
+            "registry_number",
+            "source_law",
+            "title",
+            "purchase_url",
+            "buyer.name",
+            "nmck_total"
+          ]
+        },
+        {
+          "registry_number": "32616445874",
+          "source_url": "https://zakupki.gov.ru/epz/order/notice/notice223/common-info.html?regNumber=32616445874",
+          "fields": [
+            "registry_number",
+            "source_law",
+            "title",
+            "purchase_url",
+            "buyer.name"
+          ]
+        },
+        {
+          "registry_number": "32616445870",
+          "source_url": "https://zakupki.gov.ru/epz/order/notice/notice223/common-info.html?regNumber=32616445870",
+          "fields": [
+            "registry_number",
+            "source_law",
+            "title",
+            "purchase_url",
+            "buyer.name",
+            "nmck_total"
+          ]
+        },
+        {
+          "registry_number": "32616445860",
+          "source_url": "https://zakupki.gov.ru/epz/order/notice/notice223/common-info.html?regNumber=32616445860",
+          "fields": [
+            "registry_number",
+            "source_law",
+            "title",
+            "purchase_url",
+            "buyer.name",
+            "nmck_total"
+          ]
+        },
+        {
+          "registry_number": "32616444989",
+          "source_url": "https://zakupki.gov.ru/epz/order/notice/notice223/common-info.html?regNumber=32616444989",
+          "fields": [
+            "registry_number",
+            "source_law",
+            "title",
+            "purchase_url",
+            "buyer.name",
+            "nmck_total"
+          ]
+        },
+        {
+          "registry_number": "32616445364",
+          "source_url": "https://zakupki.gov.ru/epz/order/notice/notice223/common-info.html?regNumber=32616445364",
+          "fields": [
+            "registry_number",
+            "source_law",
+            "title",
+            "purchase_url",
+            "buyer.name",
+            "nmck_total"
+          ]
+        }
+      ]
+    }
+  },
+  "json_field_trees": {
+    "dataset.json": {
+      "schema_version": true,
+      "mode": true,
+      "cutoff_utc": true,
+      "source": true,
+      "source_data_cutoff_utc": true,
+      "tenders": [
+        {
+          "nmck_total": true,
+          "source_law": true,
+          "registry_number": true,
+          "purchase_url": true,
+          "title": true,
+          "buyer": {
+            "name": true
+          }
+        }
+      ],
+      "availability": {
+        "requirements": true,
+        "documents": true,
+        "model_matches": true,
+        "history": true,
+        "plans": true,
+        "analytics": true,
+        "saved_searches": true,
+        "favorites": true,
+        "notifications": true,
+        "reviews": true
+      }
+    },
+    "config.json": {
+      "mode": true,
+      "read_only": true,
+      "auth": true,
+      "backend_url": true,
+      "write_methods": [
+        true
+      ],
+      "localhost_fallback": true
+    }
+  },
+  "reviewed_by_workflow": "FLOW_A",
+  "cutoff_utc": "2026-10-29T07:04:22.139604Z"
+}
