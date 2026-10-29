@@ -16,7 +16,7 @@ c93d2a12aaa280f68b9ab7b726ff8dfedda67c99ef9abed047c1847a1cc6d583  ./assets/ibm-p
 85db75b89e3c0bee23ea75ede70c73024f62516ccdb6be55eb0c5c7a7866433a  ./assets/ibm-plex-sans-latin-ext-400-normal-RBey6euL.woff
 6aa470ebf8dd5592084d0452b5c3a355d93b04e7eb0f5ca030d9d3a54a48fb5c  ./assets/ibm-plex-sans-latin-ext-500-normal-D0aIdm-b.woff
 2846035d85100f84c79393f80f1442d4ee720129ab8b3ffa8969aae281db8c6c  ./assets/ibm-plex-sans-latin-ext-500-normal-DakdToA3.woff2
-66615821ad49ea227b7c4f59bdbc99d6a59778eeea5ff5ac6bde5d32c10ff9b9  ./assets/index-BRqsM2ZV.js
+088359f656c2d3713707a68b46e10835ddfedfbcc83e07035807524959f4efa2  ./assets/index-CvkHCwnh.js
 8058e47e4be4181caf7702837c4f43c305c7cab6fc67f3df7c8d12838fa3c3a0  ./assets/index-CxRBbbaW.css
 80b86efbef1c9fb66557cc4cc7b6db42db2fd631f1a9b8735f3bbefbb5128799  ./assets/manrope-cyrillic-600-normal-DvRl3Mj-.woff2
 716a12f36cf789e399e0ad0bd205e3d1c66e4de66fe0c7e94a59ab7f007fce89  ./assets/manrope-cyrillic-600-normal-It4mZcQk.woff
@@ -30,7 +30,7 @@ e5d35fda4759b0d63ebcc6cca0627d98d9208254ce851c85df29e4d12aeafb61  ./assets/manro
 6face2d57ff06e5f0868d627ed8819baca3aebadd71530d110194127f455fc26  ./data/PUBLIC_FIELD_ALLOWLIST.json
 977847309cb98cb2b10220a25e6a67e198478592f9ab57ff2cbdcdb4a8d525c3  ./data/config.json
 4b96bbee3ab71178c71b8dd93c516d0a5749890a06e4f54a5420b0d290e877db  ./data/dataset.json
-6b9458b576777bbcb491b811514228cea15956e1ace54a24bb082d5f500d6869  ./index.html
+83d4f9ce3c3ec9bcdbdbd0f25cbfb97b1cd37e47dc0874dcd7187ee6278511e4  ./index.html
 23b0a9d0c6d3f140a0b77e483c5cfa6bba574325ef5cb189ed9f2fec4884533f  ./licenses/IBM-Plex-Mono-OFL.txt
 d0283623ef57e722fd0eb688a8041589670c608ab780cd3612d06ba6f153d3fd  ./licenses/IBM-Plex-Sans-OFL.txt
 b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57  ./licenses/Lucide-ISC.txt
